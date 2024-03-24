@@ -1,0 +1,12 @@
+{
+    "name"         : "pi_xyOpenflTest",
+    "url"          : "https://github.com/nanjizal/pi_xyOpenflTest#pi_xyOpenflTest",
+    "license"      : "MIT",
+    "tags"         : ["cross", "image", "2d"],
+    "description"  : "pi_xy sample, openfl",
+    "version"      : "0.0.1-alpha",
+    "releasenote"  : "See https://github.com/nanjizal/pi_xyOpenflTest/blob/master/CHANGELOG.md",
+    "contributors" : ["Nanjizal"],
+    "classPath"    : "src/",
+    "dependencies" : {}
+}
